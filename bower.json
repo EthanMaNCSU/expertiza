@@ -1,5 +1,5 @@
 {
-  "name": "expertiza",
+  "name": "EthanMaNCSU",
   "homepage": "https://github.com/expertiza/expertiza",
   "authors": [
     "Zhewei Hu <zhu6@ncsu.edu>"
@@ -7,7 +7,9 @@
   "description": "A web application supported by NSF written by Ruby on Rails framework where students can submit and peer-review learning objects.",
   "main": "",
   "keywords": [
-    "Ruby on Rails",
+    "Ruby",
+    "on",
+    "Rails",
     "peer-review"
   ],
   "license": "MIT",
